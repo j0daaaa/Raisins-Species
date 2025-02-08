@@ -1,1 +1,2 @@
-# ANALISIS PREDIKTIF TERHADAP SPESIES KISMIS MENGGUNAKAN MODEL LOGISTIC REGRESSION”
+# PREDICTIVE ANALYSIS OF RAISIN SPECIES USING LOGISTIC REGRESSION MODELS
+This project focuses on predicting the species of raisins by identifying key factors that influence their classification. It offers a structured framework for early detection and thorough follow-up analysis. The analysis is structured into several key stages, including Data Understanding, Data Cleaning, Feature Processing, Data Normalization, and Model Development, each contributing to a comprehensive and systematic approach to achieving accurate results. The findings and methodologies are detailed in this [project paper](https://drive.google.com/drive/folders/1K7kPcwHdSUwIog-mq7_GPsG8MeEGXb58?usp=sharing).
